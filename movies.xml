@@ -1,0 +1,57 @@
+<movie-library>
+    <DVDS>
+        <DVD>
+            <movie-name>Batman Begins</movie-name>
+            <year>2005</year>
+            <rating>PG-13</rating>
+            <director>Christopher Nolan</director>
+            <writers>
+                <writer typ='characters'>Bob Kane</writer>
+                <writer typ='story'>David S. Goyer</writer>
+            </writers>
+            <actors>
+                <actor>Christian Bale</actor>
+                <actor>Michael Caine</actor>
+                <actor>Ken Watanabe</actor>
+            </actors>
+        </DVD>
+
+        <DVD>
+            <movie-name>The Dark Knight Rises</movie-name>
+            <year>2012</year>
+            <rating>PG-13</rating>
+            <director>Christopher Nolan</director>
+            <writers>
+                <writer typ='characters'>Bob Kane</writer>
+                <writer typ='story'>David S. Goyer</writer>
+            </writers>
+            <actors>
+                <actor>Christian Bale</actor>
+                <actor>Tom Hardy</actor>
+                <actor>Anne Hathaway</actor>
+            </actors>
+        </DVD>
+    </DVDS>
+
+    <Tapes>
+        <tape>
+            <movie-name>The Dark Knight</movie-name>
+            <year>2008</year>
+            <rating>PG-13</rating>
+            <director>Christopher Nolan</director>
+            <writers>
+                <writer typ='screenplay'>Jonathan Nolan</writer>
+                <writer typ='screenplay'>Christopher Nolan<writer>
+                <writer typ='characters'>Bob Kane</writer>
+            </writers>
+            <actors>
+                <actor>Christian Bale</actor>
+                <actor>Heath Ledger</actor>
+                <actor>Aaron Eckhart</actor>
+            </actors>
+        </tape>
+        <tape>
+            
+        </tape>
+    </Tapes>
+</movie-library>
